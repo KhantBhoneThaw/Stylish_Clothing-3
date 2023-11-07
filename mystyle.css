@@ -1,0 +1,22 @@
+body div img{
+    width: 200px;
+    height: 250px;
+    padding: 40px;
+    background-color: blanchedalmond;
+    border: radius :200px ;
+}
+
+.intro{
+    text-align: center;
+}
+
+.html{
+   background-color:#ec7e8b ;
+}
+
+.contact{
+    background-color: #8ad880;
+    text-align: center;
+}
+
+
